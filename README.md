@@ -5,4 +5,6 @@ Followed tutorial from https://github.com/engineer-man/youtube/blob/master/015/s
     Curses - Library is used to handle character-cell displays. 
     Random — Generate pseudo-random number
  
-Added my own comments to explain how the code works 
+# What issues I came across
+
+I learned about using libraries. I wasn't prepared and ran into the issue of not having a library saved for the game to run. Learning how to download the Library Curses 
